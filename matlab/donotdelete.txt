@@ -1,0 +1,7 @@
+conda env list
+
+conda create -n <nom>
+
+conda activate <nom>
+
+conda install -c conda-forge python=3.6 tikzplotlib= matplotlib=
